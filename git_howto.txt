@@ -1,0 +1,17 @@
+% To check out the repository for the first time
+git clone https://github.com/MiddlesexCS/latex_intro.git
+
+% to commit locally
+git commit -a
+
+% to commit globally
+git push origin master
+
+% to add a file
+git add filename
+
+% to update
+git pull
+
+%The username has been MiddlesexCS -> changed to flokam on Jan 20.2014
+%The password is @ithu64CS -> Tapfer7eit -> gap-tt38
