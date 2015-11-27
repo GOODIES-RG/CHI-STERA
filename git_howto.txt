@@ -1,0 +1,17 @@
+% To get git see
+https://git-scm.com/downloads
+
+% To check out the repository for the first time
+git clone https://github.com/flokam/CHI-STERA
+
+% to commit locally
+git commit -a
+
+% to commit globally
+git push origin master
+
+% to update
+git pull
+
+% to add a file first add then commit
+git add filename
